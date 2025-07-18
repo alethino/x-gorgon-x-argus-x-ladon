@@ -7,7 +7,6 @@ from types import SimpleNamespace
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @Neo_Galaxy
 
-
 server = "http://ip:port/api/xSign"
 
 currentTime = time.time()
