@@ -5,6 +5,7 @@ from types import SimpleNamespace
 
 ### contact me
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+  
 ## telegram: @Neo_Galaxy
 
 server = "http://ip:port/api/xSign"
