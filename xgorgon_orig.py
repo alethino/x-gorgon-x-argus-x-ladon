@@ -4,9 +4,9 @@ import json
 from types import SimpleNamespace
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
   
-## telegram: @Neo_Galaxy
+## telegram: @alethino
 
 server = "http://ip:port/api/xSign"
 
